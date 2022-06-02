@@ -1,0 +1,8 @@
+ipython
+librosa
+matplotlib
+numpy
+tensorflow
+scikit-learn
+tqdm
+jupyterlab
