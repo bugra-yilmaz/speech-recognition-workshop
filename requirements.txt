@@ -3,3 +3,4 @@ librosa
 matplotlib
 numpy
 scipy
+jupyterlab
